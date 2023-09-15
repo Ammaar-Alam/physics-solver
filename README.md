@@ -1,18 +1,30 @@
+# Calculator Program
+
+Welcome to the Calculator Program. This simple Java application allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division. Follow the guidelines below to get started.
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. **Prerequisites**: Ensure you have Java Development Kit (JDK) installed on your machine. If not, download and install it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+2. **IDE**: This project was developed using Visual Studio Code, but you can use any IDE that supports Java.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The project contains the following folders:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Contains the source code for the calculator program.
+- `lib`: Contains any dependencies that the project might need. Currently, this project does not have external dependencies.
+- `bin`: This folder will be generated when you compile the Java files and will contain the bytecode.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> If you wish to customize the folder structure, you can modify the `.vscode/settings.json` file accordingly.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Running the Program
 
-## Dependency Management
+1. Navigate to the `src` directory.
+2. Compile the Java file using the command: `javac Calculator.java`
+3. Run the program using the command: `java Calculator`
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+You should now see the calculator's user interface in your terminal. Follow the on-screen instructions to perform calculations.
+
+## Contributing
+
+Feel free to fork this repository and make any changes or improvements. Pull requests are welcome!
