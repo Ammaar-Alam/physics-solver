@@ -19,10 +19,12 @@ The project contains the following folders:
 > If you wish to customize the folder structure, you can modify the `.vscode/settings.json` file accordingly.
 
 ## Running the Program
+Once installed, you can simply run the `physics final.jar` file and the GUI will show up.
 
+If you make changes to the calculator and wish to instead recompile it:
 1. Navigate to the `src` directory.
-2. Compile the Java file using the command: `javac Calculator.java`
-3. Run the program using the command: `java Calculator`
+2. Compile the Java file using the command: `javac PhysicsSolver.java`
+3. Run the program using the command: `java PhysicsSolver`
 
 You should now see the calculator's user interface in your terminal. Follow the on-screen instructions to perform calculations.
 
