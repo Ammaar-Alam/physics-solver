@@ -51,4 +51,4 @@ Contributions to improve the chat application are welcome. Please follow these s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [/LICENSE.md](LICENSE) file for details.
